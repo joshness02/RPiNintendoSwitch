@@ -1,6 +1,7 @@
 # RPiNintendoSwitch
 
 #######################################
+#                 NOTE                #
 #THIS PROJECT IS STILL BEING WORKED ON#
 #######################################
 
