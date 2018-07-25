@@ -1,6 +1,5 @@
 # RPiNintendoSwitch
 
-# NOTE
-# THIS PROJECT IS STILL BEING WORKED ON
+All of the files and schematics to create your own Nintendo Switch-style gaming device
 
-A raspberry pi Nintendo Switch(tm) style gaming device.
+Instrucatble tutorial: https://www.instructables.com/editInstructable/edit/E2KXHTWJJZN6UMB/step/1
